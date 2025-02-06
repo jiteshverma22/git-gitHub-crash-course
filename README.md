@@ -10,3 +10,8 @@ git reset <id>: Undo commit(s) up to commit <id> by deleting commits
 STAGING MULTIPLE FILES & GITIGNORE
 git add . : Stage all files
 .gitignore file: Contains list of files to be ignored
+
+git branch <branch_name>: Create a new branch
+git checkout <branch_name>: Switch to <branch_name> branch
+git checkout -b <branch_name>: Create a new branch with name <branch_name> and switch to that branch
+git branch -D <brancch_name>: Delete <branch_name> branch
