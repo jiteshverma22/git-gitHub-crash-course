@@ -8,3 +8,5 @@ git revert <id>: Revert the changes of commit <id> (by creating a new commit)
 git reset <id>: Undo commit(s) up to commit <id> by deleting commits
 
 STAGING MULTIPLE FILES & GITIGNORE
+git add . : Stage all files
+.gitignore file: Contains list of files to be ignored
